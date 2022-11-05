@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Z0045TAM\\Desktop\\ExtensionForWebBrowserSearch\\MenuExtensionForWebBrowserSearch\\MenuExtensionForWebBrowserSearch\\MenuExtensionForWebBrowserSearch.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Z0045TAM\\Desktop\\ExtensionForWebBrowserSearch\\MenuExtensionForWebBrowserSearch\\MenuExtensionForWebBrowserSearch\\MenuExtensionForWebBrowserSearch.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Z0045TAM\\Desktop\\ExtensionForWebBrowserSearch\\MenuExtensionForWebBrowserSearch\\MenuExtensionForWebBrowserSearch\\MenuExtensionForWebBrowserSearch.csproj",
+        "projectName": "MenuExtensionForWebBrowserSearch",
+        "projectPath": "C:\\Users\\Z0045TAM\\Desktop\\ExtensionForWebBrowserSearch\\MenuExtensionForWebBrowserSearch\\MenuExtensionForWebBrowserSearch\\MenuExtensionForWebBrowserSearch.csproj",
+        "packagesPath": "C:\\Users\\Z0045TAM\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Z0045TAM\\Desktop\\ExtensionForWebBrowserSearch\\MenuExtensionForWebBrowserSearch\\MenuExtensionForWebBrowserSearch\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Z0045TAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://EVH05608WS.ad001.siemens.net:5001/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://apollo.healthcare.siemens.com/tfs/IKM.TPC.Projects/_packaging/syngo-Extern%40Release/nuget/v3/index.json": {},
+          "https://apollo.healthcare.siemens.com/tfs/IKM.TPC.Projects/_packaging/syngo-Extern/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.VSSDK.BuildTools": {
+              "target": "Package",
+              "version": "[17.2.2186, )"
+            },
+            "Microsoft.VisualStudio.SDK": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[17.0.32112.339, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
