@@ -97,7 +97,7 @@ namespace MenuExtensionForWebBrowserSearch
             //    OLEMSGBUTTON.OLEMSGBUTTON_OK,
             //    OLEMSGDEFBUTTON.OLEMSGDEFBUTTON_FIRST);
 
-            string webBrowser = "https://find.siemens.cloud/search?profile=SHS.Find.SDN&uilanguage=en&cf.pc.region=IN&cf.pc.acceptedlangs=en&text=";
+            string webBrowser = "https://example.com";
             VsShellUtilities.OpenBrowser(webBrowser);
 
         }
